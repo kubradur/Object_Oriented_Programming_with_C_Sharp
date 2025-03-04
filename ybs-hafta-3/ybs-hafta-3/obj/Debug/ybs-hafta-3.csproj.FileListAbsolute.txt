@@ -1,0 +1,7 @@
+C:\Users\kubradur\source\repos\ybs-hafta-3\ybs-hafta-3\bin\Debug\ybs-hafta-3.exe.config
+C:\Users\kubradur\source\repos\ybs-hafta-3\ybs-hafta-3\bin\Debug\ybs-hafta-3.exe
+C:\Users\kubradur\source\repos\ybs-hafta-3\ybs-hafta-3\bin\Debug\ybs-hafta-3.pdb
+C:\Users\kubradur\source\repos\ybs-hafta-3\ybs-hafta-3\obj\Debug\ybs-hafta-3.csproj.AssemblyReference.cache
+C:\Users\kubradur\source\repos\ybs-hafta-3\ybs-hafta-3\obj\Debug\ybs-hafta-3.csproj.CoreCompileInputs.cache
+C:\Users\kubradur\source\repos\ybs-hafta-3\ybs-hafta-3\obj\Debug\ybs-hafta-3.exe
+C:\Users\kubradur\source\repos\ybs-hafta-3\ybs-hafta-3\obj\Debug\ybs-hafta-3.pdb
